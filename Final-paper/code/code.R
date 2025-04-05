@@ -1,0 +1,12 @@
+getwd()
+setwd("C:\\Users\\murar\\Documents\\UC_Berkeley\\Econ-183\\Final-paper")
+library(stargazer)
+library(dplyr)
+library(stargazer)
+library(knitr)
+library(ivreg)
+library(car)
+library(tinytex)
+library(ggplot2)
+library(plm)
+
